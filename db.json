@@ -10,7 +10,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "red",
                 "buttonSituation": "HIGH",
-                "src": "../../../public/assets/own-ss-1.png"
+                "src": "../../../public/assets/own-ss-1.jpg"
               },
               {
                 "id": 1,
@@ -22,7 +22,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "yellow",
                 "buttonSituation": "LOW",
-                "src": "../../../public/assets/own-ss-3.png"
+                "src": "../../../public/assets/own-ss-3.jpg"
               },
               {
                 "id": 2,
@@ -34,7 +34,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "red",
                 "buttonSituation": "HIGH",
-                "src": "../../../public/assets/own-ss-4.png"
+                "src": "../../../public/assets/own-ss-4.jpg"
               },
               {
                 "id": 3,
@@ -46,7 +46,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "green",
                 "buttonSituation": "NORMAL",
-                "src": "../../../public/assets/own-ss.png"
+                "src": "../../../public/assets/own-ss.jpg"
               },
               {
                 "id": 4,
@@ -58,7 +58,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "red",
                 "buttonSituation": "HIGH",
-                "src": "../../../public/assets/own-h.png"
+                "src": "../../../public/assets/own-h.jpg"
               },
               {
                 "id": 5,
@@ -70,7 +70,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "green",
                 "buttonSituation": "Normal",
-                "src": "../../../public/assets/own-h-1.png"
+                "src": "../../../public/assets/own-h-1.jpg"
               },
               {
                 "id": 6,
@@ -82,7 +82,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "red",
                 "buttonSituation": "HIGH",
-                "src": "../../../public/assets/own-h-5.png"
+                "src": "../../../public/assets/own-h-5.jpg"
               },
               {
                 "id": 7,
@@ -94,7 +94,7 @@
                 "DateClock": "6:30 PM",
                 "buttonClassName": "green",
                 "buttonSituation": "Normal",
-                "src": "../../../public/assets/own-h-2.png"
+                "src": "../../../public/assets/own-h-2.jpg"
               }
   ],
   "users": [
