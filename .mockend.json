@@ -3,9 +3,9 @@
       "_": {
         "items": 7,
         "data": [
-            {
+           {
                 "id": 0,
-                "Ticketdetails": "Contact Email not Linked",
+                "Ticketdetails": "Sweatshirt",
                 "TicketdetailsUpdate": "Updated 1 day ago",
                 "Customername": "Tom Cruise",
                 "CustomernameDate": "on 24.05.2019",
@@ -17,7 +17,7 @@
               },
               {
                 "id": 1,
-                "Ticketdetails": "Adding Images to Featured Posts",
+                "Ticketdetails": "Sweatshirt",
                 "TicketdetailsUpdate": "Updated 1 day ago",
                 "Customername": "Matt Damon",
                 "CustomernameDate": "on 24.05.2019",
@@ -29,8 +29,8 @@
               },
               {
                 "id": 2,
-                "Ticketdetails": "When will I be charged this month?",
-                "TicketdetailsUpdate": "Updated 1 day ago",
+                "Ticketdetails": "Sweatshirt",
+                "TicketdetailsUpdate": "1800",
                 "Customername": "Robert Downey",
                 "CustomernameDate": "on 24.05.2019",
                 "Date": "May 26, 2019",
@@ -41,8 +41,8 @@
               },
               {
                 "id": 3,
-                "Ticketdetails": "Payment not going through",
-                "TicketdetailsUpdate": "Updated 2 day ago",
+                "Ticketdetails": "Sweatshirt",
+                "TicketdetailsUpdate": "1800",
                 "Customername": "Christian Bale",
                 "CustomernameDate": "on 24.05.2019",
                 "Date": "May 26, 2019",
@@ -53,7 +53,7 @@
               },
               {
                 "id": 4,
-                "Ticketdetails": "Unable to add replies",
+                "Ticketdetails": "hoodie",
                 "TicketdetailsUpdate": "Updated 1 day ago",
                 "Customername": "Henry Cavil",
                 "CustomernameDate": "on 24.05.2019",
@@ -65,8 +65,8 @@
               },
               {
                 "id": 5,
-                "Ticketdetails": "Downtime since last week",
-                "TicketdetailsUpdate": "Updated 1 day ago",
+                "Ticketdetails": "Hoodie",
+                "TicketdetailsUpdate": "2300",
                 "Customername": "Chris Evans",
                 "CustomernameDate": "on 24.05.2019",
                 "Date": "May 26, 2019",
@@ -77,8 +77,8 @@
               },
               {
                 "id": 6,
-                "Ticketdetails": "Referral Bonus",
-                "TicketdetailsUpdate": "Updated 4 day ago",
+                "Ticketdetails": "Hoodie",
+                "TicketdetailsUpdate": "2300",
                 "Customername": "Sam Smith",
                 "CustomernameDate": "on 24.05.2019",
                 "Date": "May 26, 2019",
@@ -89,8 +89,8 @@
               },
               {
                 "id": 7,
-                "Ticketdetails": "kenish",
-                "TicketdetailsUpdate": "Updated 6 day ago",
+                "Ticketdetails": "Hoodie",
+                "TicketdetailsUpdate": "2300",
                 "Customername": "Steve Rogers",
                 "CustomernameDate": "on 24.05.2019",
                 "Date": "May 26, 2019",
